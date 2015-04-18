@@ -3,5 +3,5 @@ my configs
 
 vimrc
 
-tmuxrc
+tmux.comf
 
